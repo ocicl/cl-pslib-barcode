@@ -1,0 +1,10 @@
+* cl-pslib-barcode
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://notabug.org/cage/cl-pslib-barcode.git   |
+| commit  |   |
+| systems | cl-pslib-barcode |
+|---------+-------------------------------------------|
+

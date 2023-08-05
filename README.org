@@ -2,9 +2,9 @@
 
 
 
-|---------+-------------------------------------------|
-| source  | git:https://notabug.org/cage/cl-pslib-barcode.git   |
-| commit  |   |
-| systems | cl-pslib-barcode |
-|---------+-------------------------------------------|
+44c7593---------+-------------------------------------------|
+44c7593 source  | git:https://notabug.org/cage/cl-pslib-barcode.git   |
+44c7593 commit  |   |
+44c7593 systems | cl-pslib-barcode |
+44c7593---------+-------------------------------------------|
 
